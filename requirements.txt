@@ -1,0 +1,7 @@
+tensorflow  # Or latest stable version
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+streamlit
